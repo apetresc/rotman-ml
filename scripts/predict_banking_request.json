@@ -1,0 +1,40 @@
+{
+  "instances": [
+    {
+      "Age": "36",
+      "Job": "technician",
+      "MaritalStatus": "married",
+      "Education": "tertiary",
+      "Default": "no",
+      "Balance": "3409",
+      "Housing": "yes",
+      "Loan": "no",
+      "Contact": "cellular",
+      "Day": "7",
+      "Month": "mar",
+      "Duration": "10",
+      "Campaign": "1",
+      "PDays": "-1",
+      "Previous": "0",
+      "POutcome": "unknown"
+    },
+    {
+      "Age": "12",
+      "Job": "student",
+      "MaritalStatus": "single",
+      "Education": "primary",
+      "Default": "yes",
+      "Balance": "10",
+      "Housing": "no",
+      "Loan": "yes",
+      "Contact": "cellular",
+      "Day": "7",
+      "Month": "mar",
+      "Duration": "10",
+      "Campaign": "1",
+      "PDays": "-1",
+      "Previous": "0",
+      "POutcome": "unknown"
+    }
+  ]
+}
