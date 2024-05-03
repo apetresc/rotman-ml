@@ -1,8 +1,9 @@
 resource "google_compute_instance" "default" {
-  name         = "test"
+  name         = "test-${count.index}"
   project      = "anthos-poc-315613"
   machine_type = "e2-standard-2"
   zone         = "northamerica-northeast1-a"
+  count        = 3
 
   boot_disk {
     initialize_params {
